@@ -1,3 +1,6 @@
+body{
+    background: pink;
+}
 #navbar {
     background: rgba(0,0,0,0.3); /* Black background color */
     position: fixed; /* Make it stick/fixed */
