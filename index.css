@@ -1,5 +1,5 @@
 body{
-    background: pink;
+    background: silver;
 }
 #navbar {
     background: rgba(0,0,0,0.3); /* Black background color */
@@ -34,9 +34,13 @@ img{
 .heading{
     margin-top: 150px;
     margin-left: 900px;
+    margin-bottom: 200px;
 }
 .heading h1{
-    color:red;
+    color: black;
     font-family: 'Anton';
     font-size: 102px;
+}
+.context h2{
+    font-size: 54px
 }
