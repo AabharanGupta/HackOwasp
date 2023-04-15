@@ -7,6 +7,25 @@ a:visited{
 a{
     color: black;
 }
+.student{
+    width: 500px;
+    length:1000px;
+    background-color: coral;
+    position:relative;
+    top:300px;
+    left:500px;
+    font-size: 50px;
+}
+.driver{
+    width: 500px;
+    length:1000px;
+    background-color: cyan;
+    font-size: 50px;
+    position: relative;
+    top:50px;
+    left:500px;
+}
+  
   .flex> div {
     background-color: #f1f1f1;
     margin: 10px;
