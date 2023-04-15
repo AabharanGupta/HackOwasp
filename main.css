@@ -25,7 +25,7 @@ p{
     text-align:right;
 }
 body{
-    background: silver;
+    background: rgb(7, 232, 59);
 }
 #navbar {
     background: rgba(0,0,0,0.3); /* Black background color */
