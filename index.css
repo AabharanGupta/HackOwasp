@@ -31,3 +31,12 @@ img{
     max-width: 100%;
     height :auto;
 }
+.heading{
+    margin-top: 150px;
+    margin-left: 900px;
+}
+.heading h1{
+    color:red;
+    font-family: 'Anton';
+    font-size: 102px;
+}
