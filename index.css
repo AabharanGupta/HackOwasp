@@ -27,10 +27,7 @@ body{
     background-size: 100% 500px;
     height : 100px;
 }
-img{
-    max-width: 100%;
-    height :auto;
-}
+
 .heading{
     margin-top: 150px;
     margin-left: 900px;
@@ -42,5 +39,6 @@ img{
     font-size: 102px;
 }
 .context h2{
-    font-size: 54px
+    font-size: 54px;
+    font-family: 'Anton';
 }
