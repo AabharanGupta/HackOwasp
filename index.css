@@ -47,3 +47,10 @@ body{
 .context p{
     font-size: 27px ;
 }
+.heading a{
+    display: block;
+    color: palevioletred;
+    font-size: xx-large;
+    padding: 14px 16px;
+    text-decoration: none;
+}
