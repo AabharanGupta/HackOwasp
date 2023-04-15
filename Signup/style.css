@@ -1,0 +1,15 @@
+a:hover{
+    color:red;
+}
+a:visited{
+    color: purple;
+}
+a{
+    color: black;
+}
+  .flex> div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 50px;
+  }
